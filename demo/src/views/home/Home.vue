@@ -11,7 +11,7 @@
         </div>
         <div class="login-info">
           <p>上次登录时间:<span>2022-7-11</span></p>
-          <p>上次登录的地点:<span>北京</span></p>
+          <p>上次登录的地点:<span>佛山</span></p>
         </div>
       </el-card>
       <el-card shadow="hover" style="margin-top: 20px" height="450px">
