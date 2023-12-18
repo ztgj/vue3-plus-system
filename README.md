@@ -1,9 +1,9 @@
-# vue2.0+elementui的后台管理系统
+# vue3+element plus的后台管理系统
 
 #### 介绍
-模仿的一个后台管理系统,目前实现了登录退出模块、用户的增删改模块、数据可视化模块，商品管理和其他待补充
+和Vue2.0一样的后台管理系统，只是用的是Vue3,还有换了组件库,用来练习vue3的项目
 
-技术架构：Vue2.0+Vue-Router+Vuex+axios+ElementUI+mock+ECharts
+技术架构：Vue3+Vue-Router+Vuex+axios+Element Plus+mock+ECharts
 
 ### 技术要点：
 
@@ -29,26 +29,13 @@
 
 ### 界面截图：
 
-登录页面
-（管理员和普通用户所看到的侧边栏内容是不同的）
-![输入图片说明](login.png)
+首页
+![1702881788659](https://github.com/ztgj/vue3-plus-system/assets/104379441/0b83b96a-a12f-439b-8fd5-09961dd79445)
 
-
-管理员的侧边栏
-
-![输入图片说明](admin.png)
-
-普通用户侧边栏
-
-![输入图片说明](user.png)
-
-
-可视化数据
-
-![输入图片说明](echarts.png)
 
 用户管理界面
-![输入图片说明](adit.png)
+![1702881899709](https://github.com/ztgj/vue3-plus-system/assets/104379441/afc54ca1-5f19-47d6-803d-f6eb28dbfea4)
+
 
 编辑用户
-![输入图片说明](bianji.png)
+![1702881919358](https://github.com/ztgj/vue3-plus-system/assets/104379441/1b399ddd-bc0a-4365-b1b8-8f943337e5eb)
