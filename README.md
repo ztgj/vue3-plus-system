@@ -1,4 +1,4 @@
-# vue2.0+elementui的后台管理系统
+# vue3+element plus的后台管理系统
 
 #### 介绍
 和Vue2.0一样的后台管理系统，只是用的是Vue3,还有换了组件库,用来练习vue3的项目
