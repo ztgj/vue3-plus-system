@@ -4,6 +4,7 @@
 模仿的一个后台管理系统,目前实现了登录退出模块、用户的增删改模块、数据可视化模块，商品管理和其他待补充
 
 技术架构：Vue2.0+Vue-Router+Vuex+axios+ElementUI+mock+ECharts
+
 分支有vue3+element plus、vue3+antdvue的重构系统，用于练习
 ### 技术要点：
 
